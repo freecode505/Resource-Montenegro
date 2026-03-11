@@ -263,9 +263,9 @@
   {
     "id": 21,
     "code": "A-21",
-    "name": "Carrera 3025",
-    "brand": "Carrera",
-    "price": 155,
+    "name": "Frye 514",
+    "brand": "Frye",
+    "price": 1,
     "images": [
       "imagenes/Carrera-3025-1.jpg",
       "imagenes/Carrera-3025-2.jpg"
@@ -276,9 +276,9 @@
   {
     "id": 22,
     "code": "A-22",
-    "name": "Carrera 3013/S",
-    "brand": "Carrera",
-    "price": 190,
+    "name": "Women’s Sunglasses BURBERRY",
+    "brand": "BURBERRY",
+    "price": 1,
     "images": [
       "imagenes/Carrera-3013-1.jpg"
     ],
@@ -288,9 +288,9 @@
   {
     "id": 23,
     "code": "A-23",
-    "name": "Carrera 5018/S",
-    "brand": "Carrera",
-    "price": 175,
+    "name": "Calvin Klein Unisex",
+    "brand": "Calvin Klein",
+    "price": 169,
     "images": [
       "imagenes/Carrera-5018-1.jpg",
       "imagenes/Carrera-5018-2.jpg"
@@ -301,9 +301,9 @@
   {
     "id": 24,
     "code": "A-24",
-    "name": "Carrera Lucky",
+    "name": "Carrera Carrera 105",
     "brand": "Carrera",
-    "price": 160,
+    "price": 159,
     "images": [
       "imagenes/Carrera-Lucky-1.jpg"
     ],
@@ -313,9 +313,9 @@
   {
     "id": 25,
     "code": "A-25",
-    "name": "Carrera 125/S",
-    "brand": "Carrera",
-    "price": 230,
+    "name": "Calvin Klein Cat Eye Sunglasses",
+    "brand": "Calvin Klein",
+    "price": 160,
     "images": [
       "imagenes/Carrera-125-1.jpg",
       "imagenes/Carrera-125-2.jpg"
@@ -326,9 +326,9 @@
   {
     "id": 26,
     "code": "A-26",
-    "name": "Carrera 3012/S",
-    "brand": "Carrera",
-    "price": 145,
+    "name": "Fossil mens Fossil",
+    "brand": "Fossil",
+    "price": 70,
     "images": [
       "imagenes/Carrera-3012-1.jpg"
     ],
@@ -338,9 +338,9 @@
   {
     "id": 27,
     "code": "A-27",
-    "name": "Carrera 115/S",
-    "brand": "Carrera",
-    "price": 200,
+    "name": "Brown Gradient Cat Eye Ladies Sunglasses",
+    "brand": "LIZ CLAIBORNE",
+    "price": 150,
     "images": [
       "imagenes/Carrera-115-1.jpg",
       "imagenes/Carrera-115-2.jpg"
@@ -351,39 +351,14 @@
   {
     "id": 28,
     "code": "A-28",
-    "name": "Carrera 5002/S",
-    "brand": "Carrera",
-    "price": 135,
+    "name": "Women's Shiny Light Blue Plastic Frame Sunglasses",
+    "brand": "Guess",
+    "price": 50,
     "images": [
-      "imagenes/Carrera-5002-1.jpg"
+      "imagenes/Carrera-5002-1.jpg",
+      "imagenes/Carrera-5002-2.jpg"
     ],
     "category": "classic",
     "hasPromo": false
-  },
-  {
-    "id": 29,
-    "code": "A-29",
-    "name": "Carrera 151/S",
-    "brand": "Carrera",
-    "price": 215,
-    "images": [
-      "imagenes/Carrera-151-1.jpg",
-      "imagenes/Carrera-151-2.jpg"
-    ],
-    "category": "luxury",
-    "hasPromo": true
-  },
-  {
-    "id": 30,
-    "code": "A-30",
-    "name": "Carrera 5030/S Special",
-    "brand": "Carrera",
-    "price": 250,
-    "images": [
-      "imagenes/Carrera-5030-1.jpg",
-      "imagenes/Carrera-5030-2.jpg"
-    ],
-    "category": "luxury",
-    "hasPromo": true
   }
 ]
