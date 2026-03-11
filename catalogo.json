@@ -56,15 +56,14 @@
   },
   {
     "id": 5,
-    "code": "CK-CK2050",
-    "name": "CK2050 Slim",
-    "brand": "Calvin Klein",
-    "price": 158,
+    "code": "A-05",
+    "name": "GUESS Aviator Striped Metal",
+    "brand": "GUESS",
+    "price": 1,
     "images": [
-      "imagenes/ck-slim/foto1.jpg",
-      "imagenes/ck-slim/foto2.jpg"
+      "imagenes/GUESS_Aviator-1.jpg"
     ],
-    "category": "classic",
+    "category": "luxury",
     "hasPromo": true
   },
   {
