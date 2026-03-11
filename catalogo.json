@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "code": "A-01",
+    "name": "Carrera Brown Pilot Unisex",
+    "brand": "Carrera",
+    "price": 159,
+    "images": [
+      "imagenes/Carrera-Unisex-1.jpeg",
+      "imagenes/Carrera-Unisex-2.jpeg",
+      "imagenes/Carrera-Unisex-3.jpeg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 2,
+    "code": "TF-FT5401",
+    "name": "Noir Edition",
+    "brand": "Tom Ford",
+    "price": 320,
+    "images": [
+      "imagenes/tomford-noir/foto1.jpg",
+      "imagenes/tomford-noir/foto2.jpg",
+      "imagenes/tomford-noir/foto3.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 3,
+    "code": "LAC-L2889",
+    "name": "Lacoste L2889",
+    "brand": "Lacoste",
+    "price": 145,
+    "images": [
+      "imagenes/lacoste-sport/foto1.jpg",
+      "imagenes/lacoste-sport/foto2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 4,
+    "code": "FER-SF804",
+    "name": "Ferragamo SF804S",
+    "brand": "Ferragamo",
+    "price": 275,
+    "images": [
+      "imagenes/ferragamo-gold/foto1.jpg",
+      "imagenes/ferragamo-gold/foto2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 5,
+    "code": "CK-CK2050",
+    "name": "CK2050 Slim",
+    "brand": "Calvin Klein",
+    "price": 158,
+    "images": [
+      "imagenes/ck-slim/foto1.jpg",
+      "imagenes/ck-slim/foto2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 6,
+    "code": "GU-6752",
+    "name": "Guess Glamour",
+    "brand": "Guess",
+    "price": 95,
+    "images": [
+      "imagenes/guess-glamour/foto1.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 7,
+    "code": "NK-FLY01",
+    "name": "Nike Flywheel",
+    "brand": "Nike",
+    "price": 120,
+    "images": [
+      "imagenes/nike-flywheel/foto1.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 8,
+    "code": "CAR-CHAMP",
+    "name": "Carrera Champion",
+    "brand": "Carrera",
+    "price": 135,
+    "images": [
+      "imagenes/carrera-champ/foto1.jpg",
+      "imagenes/carrera-champ/foto2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  }
+]
