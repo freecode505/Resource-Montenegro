@@ -81,25 +81,25 @@
   },
   {
     "id": 7,
-    "code": "NK-FLY01",
-    "name": "Nike Flywheel",
-    "brand": "Nike",
-    "price": 120,
+    "code": "A-07",
+    "name": "Lentes De Sol Carrera 8035",
+    "brand": "Carrera",
+    "price": 159,
     "images": [
-      "imagenes/nike-flywheel/foto1.jpg"
+      "imagenes/Carrera-Unis2-1.jpeg",
+      "imagenes/Carrera-Unis2-2.jpeg"
     ],
     "category": "classic",
     "hasPromo": false
   },
   {
     "id": 8,
-    "code": "CAR-CHAMP",
-    "name": "Carrera Champion",
+    "code": "A-08",
+    "name": "Carrera Topcar 1/N",
     "brand": "Carrera",
-    "price": 135,
+    "price": 1,
     "images": [
-      "imagenes/carrera-champ/foto1.jpg",
-      "imagenes/carrera-champ/foto2.jpg"
+      "imagenes/TOPCAR_1_N_2M2HA_P00.jpg.jpg"
     ],
     "category": "classic",
     "hasPromo": true
