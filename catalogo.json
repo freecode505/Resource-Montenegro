@@ -59,7 +59,7 @@
     "code": "A-05",
     "name": "GUESS Aviator Striped Metal",
     "brand": "GUESS",
-    "price": 110,
+    "price": 1,
     "images": [
       "imagenes/GUESS_Aviator-1.jpg"
     ],
@@ -97,7 +97,7 @@
     "code": "A-08",
     "name": "Carrera Topcar 1/N",
     "brand": "Carrera",
-    "price": 145,
+    "price": 1,
     "images": [
       "imagenes/TOPCAR_1_N_2M2HA_P00.jpg.jpg"
     ],
@@ -198,11 +198,12 @@
   {
     "id": 16,
     "code": "A-16",
-    "name": "Carrera 3026/S",
-    "brand": "Carrera",
-    "price": 195,
+    "name": "Rectangle Sunglasses CK23505S",
+    "brand": "Calvin Klein",
+    "price": 1,
     "images": [
-      "imagenes/Carrera-3026-1.jpg"
+      "imagenes/Carrera-3026-1.jpg",
+      "imagenes/Carrera-3026-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -210,9 +211,9 @@
   {
     "id": 17,
     "code": "A-17",
-    "name": "Carrera 5512",
-    "brand": "Carrera",
-    "price": 140,
+    "name": "Lacoste L6007s",
+    "brand": "Lacoste",
+    "price": 139,
     "images": [
       "imagenes/Carrera-5512-1.jpg",
       "imagenes/Carrera-5512-2.jpg"
@@ -223,11 +224,12 @@
   {
     "id": 18,
     "code": "A-18",
-    "name": "Carrera 136/S",
-    "brand": "Carrera",
-    "price": 210,
+    "name": "Grey Gradient Cat Eye Ladies Sunglasses",
+    "brand": "LACOSTE",
+    "price": 1,
     "images": [
-      "imagenes/Carrera-136-1.jpg"
+      "imagenes/Carrera-136-1.jpg",
+      "imagenes/Carrera-136-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -235,9 +237,9 @@
   {
     "id": 19,
     "code": "A-19",
-    "name": "Carrera 5027/S",
-    "brand": "Carrera",
-    "price": 185,
+    "name": "Lacoste Unisex Sunglasses Green Shaded Lens Brown",
+    "brand": "LACOSTE",
+    "price": 149,
     "images": [
       "imagenes/Carrera-5027-1.jpg",
       "imagenes/Carrera-5027-2.jpg"
@@ -248,11 +250,12 @@
   {
     "id": 20,
     "code": "A-20",
-    "name": "Carrera 1000/S Vintage",
-    "brand": "Carrera",
-    "price": 220,
+    "name": "Lacoste  L 60",
+    "brand": "Lacoste",
+    "price": 189,
     "images": [
-      "imagenes/Carrera-1000-1.jpg"
+      "imagenes/Carrera-1000-1.jpg",
+      "imagenes/Carrera-1000-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
