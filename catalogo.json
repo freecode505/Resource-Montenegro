@@ -68,12 +68,13 @@
   },
   {
     "id": 6,
-    "code": "GU-6752",
-    "name": "Guess Glamour",
-    "brand": "Guess",
-    "price": 95,
+    "code": "A-06",
+    "name": "Calvin Klein CK24510S",
+    "brand": "Calvin Klein",
+    "price": 1,
     "images": [
-      "imagenes/guess-glamour/foto1.jpg"
+      "imagenes/MG_ALT1-1.jpg",
+      "imagenes/MG_ALT1-2.jpg"
     ],
     "category": "classic",
     "hasPromo": false
