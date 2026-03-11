@@ -43,13 +43,13 @@
   },
   {
     "id": 4,
-    "code": "FER-SF804",
-    "name": "Ferragamo SF804S",
-    "brand": "Ferragamo",
-    "price": 275,
+    "code": "A-04",
+    "name": "Calvin Klein Jeans",
+    "brand": "Calvin Klein",
+    "price": 119,
     "images": [
-      "imagenes/ferragamo-gold/foto1.jpg",
-      "imagenes/ferragamo-gold/foto2.jpg"
+      "imagenes/CKJ23658S540-1.jpg",
+      "imagenes/CKJ23658S540-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
