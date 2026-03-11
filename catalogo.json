@@ -15,27 +15,28 @@
   },
   {
     "id": 2,
-    "code": "TF-FT5401",
-    "name": "Noir Edition",
-    "brand": "Tom Ford",
-    "price": 320,
+    "code": "A-02",
+    "name": "Carrera 256/S",
+    "brand": "Carrera",
+    "price": 180,
     "images": [
-      "imagenes/tomford-noir/foto1.jpg",
-      "imagenes/tomford-noir/foto2.jpg",
-      "imagenes/tomford-noir/foto3.jpg"
+      "imagenes/Carrera-256-1.jpeg",
+      "imagenes/Carrera-256-2.jpg",
+      "imagenes/Carrera-256-3.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
   },
   {
     "id": 3,
-    "code": "LAC-L2889",
-    "name": "Lacoste L2889",
-    "brand": "Lacoste",
-    "price": 145,
+    "code": "A-03",
+    "name": "Carrera 1033/S",
+    "brand": "Carrera",
+    "price": 159,
     "images": [
-      "imagenes/lacoste-sport/foto1.jpg",
-      "imagenes/lacoste-sport/foto2.jpg"
+      "imagenes/Carrera-1033-1.jpg",
+      "imagenes/Carrera-1033-2.jpg",
+      "imagenes/Carrera-1033-3.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
