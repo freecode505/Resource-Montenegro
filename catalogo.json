@@ -637,34 +637,8 @@
     "brand": "FERRAGAMO",
     "price": 1,
     "images": [
-      "imagenes/Carrera-256-1.jpeg",
-      "imagenes/Carrera-256-2.jpg"
-    ],
-    "category": "classic",
-    "hasPromo": false
-  },
-  {
-    "id": 51,
-    "code": "A-51",
-    "name": "Prada Linea Rossa Lifestyle",
-    "brand": "Prada",
-    "price": 1,
-    "images": [
-      "imagenes/Carrera-1033-1.jpg",
-      "imagenes/Carrera-1033-2.jpg"
-    ],
-    "category": "luxury",
-    "hasPromo": true
-  },
-  {
-    "id": 52,
-    "code": "A-52",
-    "name": "Gucci GG Rectangle",
-    "brand": "Gucci",
-    "price": 1,
-    "images": [
-      "imagenes/CKJ23658S540-1.jpg",
-      "imagenes/CKJ23658S540-2.jpg"
+      "imagenes/Gucci-GG-Rect-Silver-1.jpg",
+      "imagenes/Gucci-GG-Rect-Silver-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -672,11 +646,12 @@
   {
     "id": 53,
     "code": "A-53",
-    "name": "Versace Greca",
-    "brand": "Versace",
+    "name": "CARRERA Polarized Green Navigator Men's Sunglasses CARRERA 1019",
+    "brand": "CARRERA",
     "price": 1,
     "images": [
-      "imagenes/GUESS_Aviator-1.jpg"
+      "imagenes/Versace-Greca-Gold-1.jpg",
+      "imagenes/Versace-Greca-Gold-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -688,8 +663,8 @@
     "brand": "Dior",
     "price": 1,
     "images": [
-      "imagenes/MG_ALT1-1.jpg",
-      "imagenes/MG_ALT1-2.jpg"
+      "imagenes/Dior-Blackout-Matte-1.jpg",
+      "imagenes/Dior-Blackout-Matte-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -701,8 +676,8 @@
     "brand": "Fendi",
     "price": 1,
     "images": [
-      "imagenes/Carrera-Unis2-1.jpeg",
-      "imagenes/Carrera-Unis2-2.jpeg"
+      "imagenes/Fendi-Pilot-Red-1.jpg",
+      "imagenes/Fendi-Pilot-Red-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -714,7 +689,7 @@
     "brand": "Balenciaga",
     "price": 1,
     "images": [
-      "imagenes/TOPCAR_1_N_2M2HA_P00.jpg.jpg"
+      "imagenes/Balenciaga-Oversized-Black-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -726,8 +701,8 @@
     "brand": "Burberry",
     "price": 1,
     "images": [
-      "imagenes/carrera-2951.jpg",
-      "imagenes/carrera-2952.jpg"
+      "imagenes/Burberry-Check-Beige-1.jpg",
+      "imagenes/Burberry-Check-Beige-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -739,8 +714,8 @@
     "brand": "Chanel",
     "price": 1,
     "images": [
-      "imagenes/Carrera-5006-1.jpg",
-      "imagenes/Carrera-5006-2.jpg"
+      "imagenes/Chanel-Round-Tweed-1.jpg",
+      "imagenes/Chanel-Round-Tweed-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -752,8 +727,8 @@
     "brand": "Tom Ford",
     "price": 1,
     "images": [
-      "imagenes/Carrera-5029-1.jpg",
-      "imagenes/Carrera-5029-2.jpg"
+      "imagenes/TomFord-BlueBlock-1.jpg",
+      "imagenes/TomFord-BlueBlock-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -765,8 +740,8 @@
     "brand": "Michael Kors",
     "price": 1,
     "images": [
-      "imagenes/Carrera-113-1.jpg",
-      "imagenes/Carrera-113-2.jpg"
+      "imagenes/MK-3020-Rose-1.jpg",
+      "imagenes/MK-3020-Rose-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -778,8 +753,8 @@
     "brand": "Armani Exchange",
     "price": 1,
     "images": [
-      "imagenes/Carrera-Safari-1.jpg",
-      "imagenes/Carrera-Safari-2.jpg"
+      "imagenes/AX-3035-Gunmetal-1.jpg",
+      "imagenes/AX-3035-Gunmetal-2.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -791,8 +766,8 @@
     "brand": "Boss",
     "price": 1,
     "images": [
-      "imagenes/Carrera-6000-1.jpg",
-      "imagenes/Carrera-6000-2.jpg"
+      "imagenes/Boss-Orange-0734-1.jpg",
+      "imagenes/Boss-Orange-0734-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -804,8 +779,8 @@
     "brand": "Porsche Design",
     "price": 1,
     "images": [
-      "imagenes/Carrera-Vimmel-1.jpg",
-      "imagenes/Carrera-Vimmel-2.jpg"
+      "imagenes/Porsche-P8644-1.jpg",
+      "imagenes/Porsche-P8644-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -817,8 +792,8 @@
     "brand": "Mont Blanc",
     "price": 1,
     "images": [
-      "imagenes/Carrera-3026-1.jpg",
-      "imagenes/Carrera-3026-2.jpg"
+      "imagenes/MontBlanc-MB0086S-1.jpg",
+      "imagenes/MontBlanc-MB0086S-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -830,8 +805,8 @@
     "brand": "Carrera",
     "price": 1,
     "images": [
-      "imagenes/Carrera-5512-1.jpg",
-      "imagenes/Carrera-5512-2.jpg"
+      "imagenes/Carrera-Champ-White-1.jpg",
+      "imagenes/Carrera-Champ-White-2.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -843,8 +818,8 @@
     "brand": "Lacoste",
     "price": 1,
     "images": [
-      "imagenes/Carrera-136-1.jpg",
-      "imagenes/Carrera-136-2.jpg"
+      "imagenes/Lacoste-L2839-1.jpg",
+      "imagenes/Lacoste-L2839-2.jpg"
     ],
     "category": "classic",
     "hasPromo": false
@@ -856,8 +831,8 @@
     "brand": "Tommy Hilfiger",
     "price": 1,
     "images": [
-      "imagenes/Carrera-5027-1.jpg",
-      "imagenes/Carrera-5027-2.jpg"
+      "imagenes/TH-1746-Blue-1.jpg",
+      "imagenes/TH-1746-Blue-2.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -869,8 +844,8 @@
     "brand": "Guess",
     "price": 1,
     "images": [
-      "imagenes/Carrera-1000-1.jpg",
-      "imagenes/Carrera-1000-2.jpg"
+      "imagenes/Guess-GU7418-1.jpg",
+      "imagenes/Guess-GU7418-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -882,8 +857,8 @@
     "brand": "Calvin Klein",
     "price": 1,
     "images": [
-      "imagenes/Carrera-3025-1.jpg",
-      "imagenes/Carrera-3025-2.jpg"
+      "imagenes/CK-2055S-1.jpg",
+      "imagenes/CK-2055S-2.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -895,7 +870,7 @@
     "brand": "Marc Jacobs",
     "price": 1,
     "images": [
-      "imagenes/Carrera-3013-1.jpg"
+      "imagenes/MJ-426-Black-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -907,8 +882,8 @@
     "brand": "Kate Spade",
     "price": 1,
     "images": [
-      "imagenes/Carrera-5018-1.jpg",
-      "imagenes/Carrera-5018-2.jpg"
+      "imagenes/KateSpade-Lisette-1.jpg",
+      "imagenes/KateSpade-Lisette-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -920,7 +895,7 @@
     "brand": "Tory Burch",
     "price": 1,
     "images": [
-      "imagenes/Carrera-Lucky-1.jpg"
+      "imagenes/ToryBurch-TY7030-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -932,8 +907,8 @@
     "brand": "Jimmy Choo",
     "price": 1,
     "images": [
-      "imagenes/Carrera-125-1.jpg",
-      "imagenes/Carrera-125-2.jpg"
+      "imagenes/JimmyChoo-Minny-1.jpg",
+      "imagenes/JimmyChoo-Minny-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -945,7 +920,7 @@
     "brand": "Miu Miu",
     "price": 1,
     "images": [
-      "imagenes/Carrera-3012-1.jpg"
+      "imagenes/MiuMiu-MU04RS-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -957,8 +932,8 @@
     "brand": "Saint Laurent",
     "price": 1,
     "images": [
-      "imagenes/Carrera-115-1.jpg",
-      "imagenes/Carrera-115-2.jpg"
+      "imagenes/YSL-SL435-1.jpg",
+      "imagenes/YSL-SL435-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -970,8 +945,8 @@
     "brand": "Bottega Veneta",
     "price": 1,
     "images": [
-      "imagenes/Carrera-5002-1.jpg",
-      "imagenes/Carrera-5002-2.jpg"
+      "imagenes/BV-1020S-1.jpg",
+      "imagenes/BV-1020S-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -983,8 +958,8 @@
     "brand": "Loewe",
     "price": 1,
     "images": [
-      "imagenes/RayBan-Aviator-1.jpg",
-      "imagenes/RayBan-Aviator-2.jpg"
+      "imagenes/Loewe-SL002-1.jpg",
+      "imagenes/Loewe-SL002-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -996,8 +971,8 @@
     "brand": "Acne Studios",
     "price": 1,
     "images": [
-      "imagenes/Prada-LR-1.jpg",
-      "imagenes/Prada-LR-2.jpg"
+      "imagenes/Acne-AC432-1.jpg",
+      "imagenes/Acne-AC432-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -1009,8 +984,8 @@
     "brand": "Gentle Monster",
     "price": 1,
     "images": [
-      "imagenes/Gucci-Rect-1.jpg",
-      "imagenes/Gucci-Rect-2.jpg"
+      "imagenes/GM-Sorento-1.jpg",
+      "imagenes/GM-Sorento-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -1022,8 +997,8 @@
     "brand": "Le Specs",
     "price": 1,
     "images": [
-      "imagenes/Oakley-Holbrook-1.jpg",
-      "imagenes/Oakley-Holbrook-2.jpg"
+      "imagenes/LeSpecs-NoFlash-1.jpg",
+      "imagenes/LeSpecs-NoFlash-2.jpg"
     ],
     "category": "classic",
     "hasPromo": false
@@ -1035,8 +1010,8 @@
     "brand": "Quay Australia",
     "price": 1,
     "images": [
-      "imagenes/Versace-Medusa-1.jpg",
-      "imagenes/Versace-Medusa-2.jpg"
+      "imagenes/Quay-HighKey-1.jpg",
+      "imagenes/Quay-HighKey-2.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -1048,7 +1023,7 @@
     "brand": "Superdry",
     "price": 1,
     "images": [
-      "imagenes/Police-V8262M-1.jpg"
+      "imagenes/Superdry-SDY5037-1.jpg"
     ],
     "category": "classic",
     "hasPromo": false
@@ -1060,8 +1035,8 @@
     "brand": "Diesel",
     "price": 1,
     "images": [
-      "imagenes/EA-Rubber-1.jpg",
-      "imagenes/EA-Rubber-2.jpg"
+      "imagenes/Diesel-DL5275-1.jpg",
+      "imagenes/Diesel-DL5275-2.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -1073,8 +1048,8 @@
     "brand": "Just Cavalli",
     "price": 1,
     "images": [
-      "imagenes/MK-3022-1.jpg",
-      "imagenes/MK-3022-2.jpg"
+      "imagenes/JCavalli-JC698S-1.jpg",
+      "imagenes/JCavalli-JC698S-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -1086,7 +1061,7 @@
     "brand": "Moschino",
     "price": 1,
     "images": [
-      "imagenes/Dior-SoReal-1.jpg"
+      "imagenes/Moschino-MO527-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": true
@@ -1098,8 +1073,8 @@
     "brand": "Etro",
     "price": 1,
     "images": [
-      "imagenes/Chloe-CE717S-1.jpg",
-      "imagenes/Chloe-CE717S-2.jpg"
+      "imagenes/Etro-ER2031-1.jpg",
+      "imagenes/Etro-ER2031-2.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -1111,8 +1086,8 @@
     "brand": "Faconnable",
     "price": 1,
     "images": [
-      "imagenes/DG-Logo-1.jpg",
-      "imagenes/DG-Logo-2.jpg"
+      "imagenes/Faconnable-FCL2856-1.jpg",
+      "imagenes/Faconnable-FCL2856-2.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -1124,7 +1099,7 @@
     "brand": "Nina Ricci",
     "price": 1,
     "images": [
-      "imagenes/Polaroid-D412-1.jpg"
+      "imagenes/NinaRicci-NR2294-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
