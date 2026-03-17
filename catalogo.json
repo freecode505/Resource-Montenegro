@@ -360,5 +360,264 @@
     ],
     "category": "classic",
     "hasPromo": false
+  },
+  {
+    "id": 29,
+    "code": "A-29",
+    "name": "Calvin Klein Jeans",
+    "brand": "Calvin Klein",
+    "price": 1,
+    "images": [
+      "imagenes/RayBan-Aviator-1.jpg",
+      "imagenes/RayBan-Aviator-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 30,
+    "code": "A-30",
+    "name": "Fossil Sunglasses",
+    "brand": "Fossil",
+    "price": 1,
+    "images": [
+      "imagenes/Prada-LR-1.jpg",
+      "imagenes/Prada-LR-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 31,
+    "code": "A-31",
+    "name": "Women's Purple Cat-Eye",
+    "brand": "CALVIN KLEIN",
+    "price": 1,
+    "images": [
+      "imagenes/Gucci-Rect-1.jpg",
+      "imagenes/Gucci-Rect-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 32,
+    "code": "A-32",
+    "name": "Kate Spade KATE SPADE KS AIMEE/S QR0(HA)",
+    "brand": "Kate Spade",
+    "price": 1,
+    "images": [
+      "imagenes/Oakley-Holbrook-1.jpg",
+      "imagenes/Oakley-Holbrook-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 33,
+    "code": "A-33",
+    "name": "Versace Medusa Biggie",
+    "brand": "Versace",
+    "price": 1,
+    "images": [
+      "imagenes/Versace-Medusa-1.jpg",
+      "imagenes/Versace-Medusa-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 34,
+    "code": "A-34",
+    "name": "Carrera CARRERA 1006",
+    "brand": "Carrera",
+    "price": 1,
+    "images": [
+      "imagenes/Police-V8262M-1.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 35,
+    "code": "A-35",
+    "name": "CARRERA 3",
+    "brand": "CARRERA",
+    "price": 1,
+    "images": [
+      "imagenes/EA-Rubber-1.jpg",
+      "imagenes/EA-Rubber-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 36,
+    "code": "A-36",
+    "name": "Eyewear Calvin Klein Jeans",
+    "brand": "Calvin Klein",
+    "price": 1,
+    "images": [
+      "imagenes/MK-3022-1.jpg",
+      "imagenes/MK-3022-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 37,
+    "code": "A-37",
+    "name": "Dior SoReal Pop",
+    "brand": "Dior",
+    "price": 1,
+    "images": [
+      "imagenes/Dior-SoReal-1.jpg",
+      "imagenes/Dior-SoReal-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 38,
+    "code": "A-38",
+    "name": "Chloé CE717S",
+    "brand": "Chloé",
+    "price": 1,
+    "images": [
+      "imagenes/Chloe-CE717S-1.jpg",
+      "imagenes/Chloe-CE717S-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 39,
+    "code": "A-39",
+    "name": "Dolce & Gabbana Logo Plaque",
+    "brand": "Dolce & Gabbana",
+    "price": 1,
+    "images": [
+      "imagenes/DG-Logo-1.jpg",
+      "imagenes/DG-Logo-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 40,
+    "code": "A-40",
+    "name": "Polaroid PLD D412",
+    "brand": "Polaroid",
+    "price": 1,
+    "images": [
+      "imagenes/Polaroid-D412-1.jpg",
+      "imagenes/Polaroid-D412-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 41,
+    "code": "A-41",
+    "name": "Vogue VO5326S",
+    "brand": "Vogue",
+    "price": 1,
+    "images": [
+      "imagenes/Vogue-VO5326-1.jpg",
+      "imagenes/Vogue-VO5326-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 42,
+    "code": "A-42",
+    "name": "Jimmy Choo LENA/S",
+    "brand": "Jimmy Choo",
+    "price": 1,
+    "images": [
+      "imagenes/JimmyChoo-LENA-1.jpg",
+      "imagenes/JimmyChoo-LENA-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 43,
+    "code": "A-43",
+    "name": "Boss Orange BOSS 0734/S",
+    "brand": "Boss",
+    "price": 1,
+    "images": [
+      "imagenes/Boss-0734-1.jpg",
+      "imagenes/Boss-0734-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 44,
+    "code": "A-44",
+    "name": "Etro ER0017",
+    "brand": "Etro",
+    "price": 1,
+    "images": [
+      "imagenes/Etro-ER0017-1.jpg",
+      "imagenes/Etro-ER0017-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 45,
+    "code": "A-45",
+    "name": "Just Cavalli JC697S",
+    "brand": "Just Cavalli",
+    "price": 1,
+    "images": [
+      "imagenes/JCavalli-697-1.jpg",
+      "imagenes/JCavalli-697-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 46,
+    "code": "A-46",
+    "name": "Miu Miu MU 02US",
+    "brand": "Miu Miu",
+    "price": 1,
+    "images": [
+      "imagenes/MiuMiu-MU02US-1.jpg",
+      "imagenes/MiuMiu-MU02US-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 47,
+    "code": "A-47",
+    "name": "Saint Laurent SL 276",
+    "brand": "Saint Laurent",
+    "price": 1,
+    "images": [
+      "imagenes/YSL-SL276-1.jpg",
+      "imagenes/YSL-SL276-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 48,
+    "code": "A-48",
+    "name": "Tom Ford Blue Block Round",
+    "brand": "Tom Ford",
+    "price": 1,
+    "images": [
+      "imagenes/TomFord-Round-1.jpg",
+      "imagenes/TomFord-Round-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
   }
 ]
