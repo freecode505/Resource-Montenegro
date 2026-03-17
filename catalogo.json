@@ -736,8 +736,8 @@
   {
     "id": 60,
     "code": "A-60",
-    "name": "Michael Kors MK3020",
-    "brand": "Michael Kors",
+    "name": "Grey Shaded Gold Mirror Navigator Men's Sunglasses CARRERA 317",
+    "brand": "CARRERA",
     "price": 1,
     "images": [
       "imagenes/MK-3020-Rose-1.jpg",
@@ -749,12 +749,11 @@
   {
     "id": 61,
     "code": "A-61",
-    "name": "Armani Exchange AX3035",
-    "brand": "Armani Exchange",
+    "name": "Gafas de sol Kate Spade TAMARA",
+    "brand": "Kate Spade",
     "price": 1,
     "images": [
-      "imagenes/AX-3035-Gunmetal-1.jpg",
-      "imagenes/AX-3035-Gunmetal-2.jpg"
+      "imagenes/AX-3035-Gunmetal-1.jpg"
     ],
     "category": "classic",
     "hasPromo": true
@@ -762,8 +761,8 @@
   {
     "id": 62,
     "code": "A-62",
-    "name": "Boss Orange BOSS 0734",
-    "brand": "Boss",
+    "name": "Carrera Carrera 247/S ",
+    "brand": "Carrera",
     "price": 1,
     "images": [
       "imagenes/Boss-Orange-0734-1.jpg",
@@ -775,8 +774,8 @@
   {
     "id": 63,
     "code": "A-63",
-    "name": "Porsche Design P8644",
-    "brand": "Porsche Design",
+    "name": "Calvin Klein Jeans CKJ24608S",
+    "brand": "Calvin Klein",
     "price": 1,
     "images": [
       "imagenes/Porsche-P8644-1.jpg",
@@ -788,12 +787,11 @@
   {
     "id": 64,
     "code": "A-64",
-    "name": "Mont Blanc MB0086S",
-    "brand": "Mont Blanc",
+    "name": "Hugo HG 0330",
+    "brand": "Hugo",
     "price": 1,
     "images": [
-      "imagenes/MontBlanc-MB0086S-1.jpg",
-      "imagenes/MontBlanc-MB0086S-2.jpg"
+      "imagenes/MontBlanc-MB0086S-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -801,8 +799,8 @@
   {
     "id": 65,
     "code": "A-65",
-    "name": "Carrera Champion",
-    "brand": "Carrera",
+    "name": "Tommy Hilfiger TH 1539",
+    "brand": "Tommy Hilfiger",
     "price": 1,
     "images": [
       "imagenes/Carrera-Champ-White-1.jpg",
@@ -814,8 +812,8 @@
   {
     "id": 66,
     "code": "A-66",
-    "name": "Lacoste L2839",
-    "brand": "Lacoste",
+    "name": "KATE SPADE KS AIMEE/S 35J",
+    "brand": "KATE SPADE",
     "price": 1,
     "images": [
       "imagenes/Lacoste-L2839-1.jpg",
@@ -827,8 +825,8 @@
   {
     "id": 67,
     "code": "A-67",
-    "name": "Tommy Hilfiger TH 1746",
-    "brand": "Tommy Hilfiger",
+    "name": "Lacoste Men's Sunglasses",
+    "brand": "Lacoste",
     "price": 1,
     "images": [
       "imagenes/TH-1746-Blue-1.jpg",
@@ -840,12 +838,11 @@
   {
     "id": 68,
     "code": "A-68",
-    "name": "Guess GU7418",
+    "name": "Guess GU00170",
     "brand": "Guess",
     "price": 1,
     "images": [
-      "imagenes/Guess-GU7418-1.jpg",
-      "imagenes/Guess-GU7418-2.jpg"
+      "imagenes/Guess-GU7418-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
