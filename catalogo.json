@@ -467,12 +467,11 @@
   {
     "id": 37,
     "code": "A-37",
-    "name": "Dior SoReal Pop",
-    "brand": "Dior",
+    "name": "Calvin Klein CKJ23658S 100",
+    "brand": "Calvin Klein",
     "price": 1,
     "images": [
-      "imagenes/Dior-SoReal-1.jpg",
-      "imagenes/Dior-SoReal-2.jpg"
+      "imagenes/Dior-SoReal-1.jpg"
     ],
     "category": "luxury",
     "hasPromo": false
@@ -480,8 +479,8 @@
   {
     "id": 38,
     "code": "A-38",
-    "name": "Chloé CE717S",
-    "brand": "Chloé",
+    "name": "Guess Sunglasses Grey Shield Frame, Smoke Lenses",
+    "brand": "Guess",
     "price": 1,
     "images": [
       "imagenes/Chloe-CE717S-1.jpg",
@@ -493,8 +492,8 @@
   {
     "id": 39,
     "code": "A-39",
-    "name": "Dolce & Gabbana Logo Plaque",
-    "brand": "Dolce & Gabbana",
+    "name": "ARNETTE X GIRL CATFISH SUNGLASSES BLUETTE/POLAR DARK GREY",
+    "brand": "ARNETTE",
     "price": 1,
     "images": [
       "imagenes/DG-Logo-1.jpg",
@@ -506,12 +505,11 @@
   {
     "id": 40,
     "code": "A-40",
-    "name": "Polaroid PLD D412",
-    "brand": "Polaroid",
+    "name": "Guess GU00099 20B",
+    "brand": "Guess",
     "price": 1,
     "images": [
-      "imagenes/Polaroid-D412-1.jpg",
-      "imagenes/Polaroid-D412-2.jpg"
+      "imagenes/Polaroid-D412-1.jpg"  
     ],
     "category": "classic",
     "hasPromo": true
@@ -519,12 +517,11 @@
   {
     "id": 41,
     "code": "A-41",
-    "name": "Vogue VO5326S",
-    "brand": "Vogue",
+    "name": "Fossil FOS 3146",
+    "brand": "Fossil",
     "price": 1,
     "images": [
-      "imagenes/Vogue-VO5326-1.jpg",
-      "imagenes/Vogue-VO5326-2.jpg"
+      "imagenes/Vogue-VO5326-1.jpg"
     ],
     "category": "classic",
     "hasPromo": false
@@ -532,8 +529,8 @@
   {
     "id": 42,
     "code": "A-42",
-    "name": "Jimmy Choo LENA/S",
-    "brand": "Jimmy Choo",
+    "name": "Women's Blue Cat-Eye Sunglasses",
+    "brand": "KATE SPADE",
     "price": 1,
     "images": [
       "imagenes/JimmyChoo-LENA-1.jpg",
@@ -545,8 +542,8 @@
   {
     "id": 43,
     "code": "A-43",
-    "name": "Boss Orange BOSS 0734/S",
-    "brand": "Boss",
+    "name": "Carrera 1006S",
+    "brand": "Carrera",
     "price": 1,
     "images": [
       "imagenes/Boss-0734-1.jpg",
@@ -558,8 +555,8 @@
   {
     "id": 44,
     "code": "A-44",
-    "name": "Etro ER0017",
-    "brand": "Etro",
+    "name": "Lacoste L6024S",
+    "brand": "Lacoste",
     "price": 1,
     "images": [
       "imagenes/Etro-ER0017-1.jpg",
@@ -571,8 +568,8 @@
   {
     "id": 45,
     "code": "A-45",
-    "name": "Just Cavalli JC697S",
-    "brand": "Just Cavalli",
+    "name": "GUESS Smoke Gradient Pilot Men",
+    "brand": "GUESS",
     "price": 1,
     "images": [
       "imagenes/JCavalli-697-1.jpg",
@@ -584,8 +581,8 @@
   {
     "id": 46,
     "code": "A-46",
-    "name": "Miu Miu MU 02US",
-    "brand": "Miu Miu",
+    "name": "LONGCHAMP Grey Gradient Butterfly",
+    "brand": "LONGCHAMP",
     "price": 1,
     "images": [
       "imagenes/MiuMiu-MU02US-1.jpg",
@@ -597,8 +594,8 @@
   {
     "id": 47,
     "code": "A-47",
-    "name": "Saint Laurent SL 276",
-    "brand": "Saint Laurent",
+    "name": "LACOSTE Blue Rectangular Ladies Sunglasses",
+    "brand": "LACOSTE",
     "price": 1,
     "images": [
       "imagenes/YSL-SL276-1.jpg",
@@ -610,8 +607,8 @@
   {
     "id": 48,
     "code": "A-48",
-    "name": "Tom Ford Blue Block Round",
-    "brand": "Tom Ford",
+    "name": "KENNETH COLE Smoke Square Men's Sunglasses KC00039 ",
+    "brand": "KENNETH COLE",
     "price": 1,
     "images": [
       "imagenes/TomFord-Round-1.jpg",
@@ -619,5 +616,517 @@
     ],
     "category": "luxury",
     "hasPromo": true
+  },
+  {
+    "id": 49,
+    "code": "A-49",
+    "name": "CARRERA 1044",
+    "brand": "CARRERA",
+    "price": 1,
+    "images": [
+      "imagenes/Carrer3a-Unisex-1.jpeg",
+      "imagenes/Carrer3a-Unisex-2.jpeg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 50,
+    "code": "A-50",
+    "name": "FERRAGAMO SF131S ",
+    "brand": "FERRAGAMO",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-256-1.jpeg",
+      "imagenes/Carrera-256-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 51,
+    "code": "A-51",
+    "name": "Prada Linea Rossa Lifestyle",
+    "brand": "Prada",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-1033-1.jpg",
+      "imagenes/Carrera-1033-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 52,
+    "code": "A-52",
+    "name": "Gucci GG Rectangle",
+    "brand": "Gucci",
+    "price": 1,
+    "images": [
+      "imagenes/CKJ23658S540-1.jpg",
+      "imagenes/CKJ23658S540-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 53,
+    "code": "A-53",
+    "name": "Versace Greca",
+    "brand": "Versace",
+    "price": 1,
+    "images": [
+      "imagenes/GUESS_Aviator-1.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 54,
+    "code": "A-54",
+    "name": "Dior Blackout",
+    "brand": "Dior",
+    "price": 1,
+    "images": [
+      "imagenes/MG_ALT1-1.jpg",
+      "imagenes/MG_ALT1-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 55,
+    "code": "A-55",
+    "name": "Fendi Pilot",
+    "brand": "Fendi",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-Unis2-1.jpeg",
+      "imagenes/Carrera-Unis2-2.jpeg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 56,
+    "code": "A-56",
+    "name": "Balenciaga Oversized",
+    "brand": "Balenciaga",
+    "price": 1,
+    "images": [
+      "imagenes/TOPCAR_1_N_2M2HA_P00.jpg.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 57,
+    "code": "A-57",
+    "name": "Burberry Check",
+    "brand": "Burberry",
+    "price": 1,
+    "images": [
+      "imagenes/carrera-2951.jpg",
+      "imagenes/carrera-2952.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 58,
+    "code": "A-58",
+    "name": "Chanel Round",
+    "brand": "Chanel",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-5006-1.jpg",
+      "imagenes/Carrera-5006-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 59,
+    "code": "A-59",
+    "name": "Tom Ford Blue Block",
+    "brand": "Tom Ford",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-5029-1.jpg",
+      "imagenes/Carrera-5029-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 60,
+    "code": "A-60",
+    "name": "Michael Kors MK3020",
+    "brand": "Michael Kors",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-113-1.jpg",
+      "imagenes/Carrera-113-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 61,
+    "code": "A-61",
+    "name": "Armani Exchange AX3035",
+    "brand": "Armani Exchange",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-Safari-1.jpg",
+      "imagenes/Carrera-Safari-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 62,
+    "code": "A-62",
+    "name": "Boss Orange BOSS 0734",
+    "brand": "Boss",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-6000-1.jpg",
+      "imagenes/Carrera-6000-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 63,
+    "code": "A-63",
+    "name": "Porsche Design P8644",
+    "brand": "Porsche Design",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-Vimmel-1.jpg",
+      "imagenes/Carrera-Vimmel-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 64,
+    "code": "A-64",
+    "name": "Mont Blanc MB0086S",
+    "brand": "Mont Blanc",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-3026-1.jpg",
+      "imagenes/Carrera-3026-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 65,
+    "code": "A-65",
+    "name": "Carrera Champion",
+    "brand": "Carrera",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-5512-1.jpg",
+      "imagenes/Carrera-5512-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 66,
+    "code": "A-66",
+    "name": "Lacoste L2839",
+    "brand": "Lacoste",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-136-1.jpg",
+      "imagenes/Carrera-136-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 67,
+    "code": "A-67",
+    "name": "Tommy Hilfiger TH 1746",
+    "brand": "Tommy Hilfiger",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-5027-1.jpg",
+      "imagenes/Carrera-5027-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 68,
+    "code": "A-68",
+    "name": "Guess GU7418",
+    "brand": "Guess",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-1000-1.jpg",
+      "imagenes/Carrera-1000-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 69,
+    "code": "A-69",
+    "name": "Calvin Klein CK2055S",
+    "brand": "Calvin Klein",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-3025-1.jpg",
+      "imagenes/Carrera-3025-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 70,
+    "code": "A-70",
+    "name": "Marc Jacobs MJ426/S",
+    "brand": "Marc Jacobs",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-3013-1.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 71,
+    "code": "A-71",
+    "name": "Kate Spade LISETTE",
+    "brand": "Kate Spade",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-5018-1.jpg",
+      "imagenes/Carrera-5018-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 72,
+    "code": "A-72",
+    "name": "Tory Burch TY7030",
+    "brand": "Tory Burch",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-Lucky-1.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 73,
+    "code": "A-73",
+    "name": "Jimmy Choo MINNY/S",
+    "brand": "Jimmy Choo",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-125-1.jpg",
+      "imagenes/Carrera-125-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 74,
+    "code": "A-74",
+    "name": "Miu Miu MU 04RS",
+    "brand": "Miu Miu",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-3012-1.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 75,
+    "code": "A-75",
+    "name": "Saint Laurent SL 435",
+    "brand": "Saint Laurent",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-115-1.jpg",
+      "imagenes/Carrera-115-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 76,
+    "code": "A-76",
+    "name": "Bottega Veneta BV1020S",
+    "brand": "Bottega Veneta",
+    "price": 1,
+    "images": [
+      "imagenes/Carrera-5002-1.jpg",
+      "imagenes/Carrera-5002-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 77,
+    "code": "A-77",
+    "name": "Loewe SL 002",
+    "brand": "Loewe",
+    "price": 1,
+    "images": [
+      "imagenes/RayBan-Aviator-1.jpg",
+      "imagenes/RayBan-Aviator-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 78,
+    "code": "A-78",
+    "name": "Acne Studios AC432",
+    "brand": "Acne Studios",
+    "price": 1,
+    "images": [
+      "imagenes/Prada-LR-1.jpg",
+      "imagenes/Prada-LR-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 79,
+    "code": "A-79",
+    "name": "Gentle Monster Sorento",
+    "brand": "Gentle Monster",
+    "price": 1,
+    "images": [
+      "imagenes/Gucci-Rect-1.jpg",
+      "imagenes/Gucci-Rect-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 80,
+    "code": "A-80",
+    "name": "Le Specs No Flash",
+    "brand": "Le Specs",
+    "price": 1,
+    "images": [
+      "imagenes/Oakley-Holbrook-1.jpg",
+      "imagenes/Oakley-Holbrook-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 81,
+    "code": "A-81",
+    "name": "Quay Australia High Key",
+    "brand": "Quay Australia",
+    "price": 1,
+    "images": [
+      "imagenes/Versace-Medusa-1.jpg",
+      "imagenes/Versace-Medusa-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 82,
+    "code": "A-82",
+    "name": "Superdry SDY5037",
+    "brand": "Superdry",
+    "price": 1,
+    "images": [
+      "imagenes/Police-V8262M-1.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": false
+  },
+  {
+    "id": 83,
+    "code": "A-83",
+    "name": "Diesel DL5275",
+    "brand": "Diesel",
+    "price": 1,
+    "images": [
+      "imagenes/EA-Rubber-1.jpg",
+      "imagenes/EA-Rubber-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 84,
+    "code": "A-84",
+    "name": "Just Cavalli JC698S",
+    "brand": "Just Cavalli",
+    "price": 1,
+    "images": [
+      "imagenes/MK-3022-1.jpg",
+      "imagenes/MK-3022-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 85,
+    "code": "A-85",
+    "name": "Moschino MO527",
+    "brand": "Moschino",
+    "price": 1,
+    "images": [
+      "imagenes/Dior-SoReal-1.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": true
+  },
+  {
+    "id": 86,
+    "code": "A-86",
+    "name": "Etro ER2031",
+    "brand": "Etro",
+    "price": 1,
+    "images": [
+      "imagenes/Chloe-CE717S-1.jpg",
+      "imagenes/Chloe-CE717S-2.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
+  },
+  {
+    "id": 87,
+    "code": "A-87",
+    "name": "Faconnable FCL2856",
+    "brand": "Faconnable",
+    "price": 1,
+    "images": [
+      "imagenes/DG-Logo-1.jpg",
+      "imagenes/DG-Logo-2.jpg"
+    ],
+    "category": "classic",
+    "hasPromo": true
+  },
+  {
+    "id": 88,
+    "code": "A-88",
+    "name": "Nina Ricci NR2294",
+    "brand": "Nina Ricci",
+    "price": 1,
+    "images": [
+      "imagenes/Polaroid-D412-1.jpg"
+    ],
+    "category": "luxury",
+    "hasPromo": false
   }
 ]
