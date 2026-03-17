@@ -850,7 +850,7 @@
   {
     "id": 69,
     "code": "A-69",
-    "name": "Calvin Klein CK2055S",
+    "name": "Calvin Klein Jeans CKJ23622S",
     "brand": "Calvin Klein",
     "price": 1,
     "images": [
@@ -863,8 +863,8 @@
   {
     "id": 70,
     "code": "A-70",
-    "name": "Marc Jacobs MJ426/S",
-    "brand": "Marc Jacobs",
+    "name": "HUGO HG 1212/S",
+    "brand": "HUGO",
     "price": 1,
     "images": [
       "imagenes/MJ-426-Black-1.jpg"
@@ -875,8 +875,8 @@
   {
     "id": 71,
     "code": "A-71",
-    "name": "Kate Spade LISETTE",
-    "brand": "Kate Spade",
+    "name": "Grand Prix 2 Mens",
+    "brand": "Carrera",
     "price": 1,
     "images": [
       "imagenes/KateSpade-Lisette-1.jpg",
@@ -888,8 +888,8 @@
   {
     "id": 72,
     "code": "A-72",
-    "name": "Tory Burch TY7030",
-    "brand": "Tory Burch",
+    "name": "Carrera Sunglasses 1026",
+    "brand": "Carrera",
     "price": 1,
     "images": [
       "imagenes/ToryBurch-TY7030-1.jpg"
