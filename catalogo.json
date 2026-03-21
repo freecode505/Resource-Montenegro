@@ -900,8 +900,8 @@
   {
     "id": 73,
     "code": "A-73",
-    "name": "Jimmy Choo MINNY/S",
-    "brand": "Jimmy Choo",
+    "name": "Carrera 1007/S",
+    "brand": "Carrera",
     "price": 1,
     "images": [
       "imagenes/JimmyChoo-Minny-1.jpg",
@@ -913,8 +913,8 @@
   {
     "id": 74,
     "code": "A-74",
-    "name": "Miu Miu MU 04RS",
-    "brand": "Miu Miu",
+    "name": "Carrera CARRERA 296",
+    "brand": "CARRERA",
     "price": 1,
     "images": [
       "imagenes/MiuMiu-MU04RS-1.jpg"
