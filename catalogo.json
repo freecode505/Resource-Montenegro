@@ -5,7 +5,7 @@
     "name": "Carrera Brown Pilot Unisex",
     "brand": "Carrera",
     "price": 159,
-    "images": [
+    "images": [ 
       "imagenes/Carrera-Unisex-1.jpeg",
       "imagenes/Carrera-Unisex-2.jpeg",
       "imagenes/Carrera-Unisex-3.jpeg"
@@ -59,7 +59,7 @@
     "code": "A-05",
     "name": "GUESS Aviator Striped Metal",
     "brand": "GUESS",
-    "price": 1,
+    "price": 112,
     "images": [
       "imagenes/GUESS_Aviator-1.jpg"
     ],
@@ -97,7 +97,7 @@
     "code": "A-08",
     "name": "Carrera Topcar 1/N",
     "brand": "Carrera",
-    "price": 1,
+    "price": 159,
     "images": [
       "imagenes/TOPCAR_1_N_2M2HA_P00.jpg.jpg"
     ],
@@ -110,7 +110,7 @@
     "name": "Carrera CARRERA 295",
     "brand": "Carrera",
     "price": 180,
-    "images": [
+    "images": [ 
       "imagenes/carrera-2951.jpg",
       "imagenes/carrera-2952.jpg"
     ],
@@ -148,7 +148,7 @@
     "code": "A-12",
     "name": "Tommy Hilfiger TH 1667",
     "brand": "Tommy Hilfiger",
-    "price": 1,
+    "price": 130,
     "images": [
       "imagenes/Carrera-113-1.jpg",
       "imagenes/Carrera-113-2.jpg"
@@ -174,7 +174,7 @@
     "code": "A-14",
     "name": "Marc Jacobs MARC-738-S",
     "brand": "Marc Jacobs",
-    "price": 1,
+    "price": 53,
     "images": [
       "imagenes/Carrera-6000-1.jpg",
       "imagenes/Carrera-6000-2.jpg"
@@ -187,7 +187,7 @@
     "code": "A-15",
     "name": "Guess gus00112 ",
     "brand": "Guess",
-    "price": 1,
+    "price": 78,
     "images": [
       "imagenes/Carrera-Vimmel-1.jpg",
       "imagenes/Carrera-Vimmel-2.jpg"
@@ -200,7 +200,7 @@
     "code": "A-16",
     "name": "Rectangle Sunglasses CK23505S",
     "brand": "Calvin Klein",
-    "price": 1,
+    "price": 158,
     "images": [
       "imagenes/Carrera-3026-1.jpg",
       "imagenes/Carrera-3026-2.jpg"
@@ -226,7 +226,7 @@
     "code": "A-18",
     "name": "Grey Gradient Cat Eye Ladies Sunglasses",
     "brand": "LACOSTE",
-    "price": 1,
+    "price": 113,
     "images": [
       "imagenes/Carrera-136-1.jpg",
       "imagenes/Carrera-136-2.jpg"
@@ -265,7 +265,7 @@
     "code": "A-21",
     "name": "Frye 514",
     "brand": "Frye",
-    "price": 1,
+    "price": 35,
     "images": [
       "imagenes/Carrera-3025-1.jpg",
       "imagenes/Carrera-3025-2.jpg"
@@ -278,7 +278,7 @@
     "code": "A-22",
     "name": "Women’s Sunglasses BURBERRY",
     "brand": "BURBERRY",
-    "price": 1,
+    "price": 169,
     "images": [
       "imagenes/Carrera-3013-1.jpg"
     ],
@@ -315,7 +315,7 @@
     "code": "A-25",
     "name": "Calvin Klein Cat Eye Sunglasses",
     "brand": "Calvin Klein",
-    "price": 160,
+    "price": 159,
     "images": [
       "imagenes/Carrera-125-1.jpg",
       "imagenes/Carrera-125-2.jpg"
@@ -328,7 +328,7 @@
     "code": "A-26",
     "name": "Fossil mens Fossil",
     "brand": "Fossil",
-    "price": 70,
+    "price": 60,
     "images": [
       "imagenes/Carrera-3012-1.jpg"
     ],
@@ -366,7 +366,7 @@
     "code": "A-29",
     "name": "Calvin Klein Jeans",
     "brand": "Calvin Klein",
-    "price": 1,
+    "price": 56,
     "images": [
       "imagenes/RayBan-Aviator-1.jpg",
       "imagenes/RayBan-Aviator-2.jpg"
@@ -379,7 +379,7 @@
     "code": "A-30",
     "name": "Fossil Sunglasses",
     "brand": "Fossil",
-    "price": 1,
+    "price": 59,
     "images": [
       "imagenes/Prada-LR-1.jpg",
       "imagenes/Prada-LR-2.jpg"
@@ -392,7 +392,7 @@
     "code": "A-31",
     "name": "Women's Purple Cat-Eye",
     "brand": "CALVIN KLEIN",
-    "price": 1,
+    "price": 95,
     "images": [
       "imagenes/Gucci-Rect-1.jpg",
       "imagenes/Gucci-Rect-2.jpg"
@@ -405,7 +405,7 @@
     "code": "A-32",
     "name": "Kate Spade KATE SPADE KS AIMEE/S QR0(HA)",
     "brand": "Kate Spade",
-    "price": 1,
+    "price": 124,
     "images": [
       "imagenes/Oakley-Holbrook-1.jpg",
       "imagenes/Oakley-Holbrook-2.jpg"
@@ -416,9 +416,9 @@
   {
     "id": 33,
     "code": "A-33",
-    "name": "Versace Medusa Biggie",
-    "brand": "Versace",
-    "price": 1,
+    "name": "LACOSTE PILOT FRAME",
+    "brand": "LACOSTE",
+    "price": 141,
     "images": [
       "imagenes/Versace-Medusa-1.jpg",
       "imagenes/Versace-Medusa-2.jpg"
@@ -431,7 +431,7 @@
     "code": "A-34",
     "name": "Carrera CARRERA 1006",
     "brand": "Carrera",
-    "price": 1,
+    "price": 159,
     "images": [
       "imagenes/Police-V8262M-1.jpg"
     ],
@@ -443,7 +443,7 @@
     "code": "A-35",
     "name": "CARRERA 3",
     "brand": "CARRERA",
-    "price": 1,
+    "price": 159,
     "images": [
       "imagenes/EA-Rubber-1.jpg",
       "imagenes/EA-Rubber-2.jpg"
@@ -456,7 +456,7 @@
     "code": "A-36",
     "name": "Eyewear Calvin Klein Jeans",
     "brand": "Calvin Klein",
-    "price": 1,
+    "price": 119,
     "images": [
       "imagenes/MK-3022-1.jpg",
       "imagenes/MK-3022-2.jpg"
@@ -469,7 +469,7 @@
     "code": "A-37",
     "name": "Calvin Klein CKJ23658S 100",
     "brand": "Calvin Klein",
-    "price": 1,
+    "price": 119,
     "images": [
       "imagenes/Dior-SoReal-1.jpg"
     ],
@@ -481,7 +481,7 @@
     "code": "A-38",
     "name": "Guess Sunglasses Grey Shield Frame, Smoke Lenses",
     "brand": "Guess",
-    "price": 1,
+    "price": 59,
     "images": [
       "imagenes/Chloe-CE717S-1.jpg",
       "imagenes/Chloe-CE717S-2.jpg"
@@ -494,7 +494,7 @@
     "code": "A-39",
     "name": "ARNETTE X GIRL CATFISH SUNGLASSES BLUETTE/POLAR DARK GREY",
     "brand": "ARNETTE",
-    "price": 1,
+    "price": 49,
     "images": [
       "imagenes/DG-Logo-1.jpg",
       "imagenes/DG-Logo-2.jpg"
